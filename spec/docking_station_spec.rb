@@ -1,7 +1,10 @@
 require 'docking_station'
 
 describe DockingStation do
-#  it 'returns a new Bike when release_bike is called' do
-  #  expect(DockingStation.release_bike).to eq 'Bike'
-#  end
+  describe "responds to release_bike" do
+    it {respond_to? :release_bike}
+    #it 'responds to release_bike method' do
+    #  expect(DockingStation.new.respond_to?(:release_bike)).to eq true
+    #end
+  end
 end
