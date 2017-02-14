@@ -1,0 +1,4 @@
+Object:           Message:
+Person
+Bike              is_good?
+Station           release_a_bike
