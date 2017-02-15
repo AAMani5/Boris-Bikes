@@ -1,7 +1,7 @@
 require 'bike'
 
 describe Bike do
-   #it {is_expected.to respond_to :working? } # one-liner
+   it {is_expected.to respond_to :working? } # one-liner
    # normal testing technique
   # it 'responds to release_bike method' do
    # expect(Bike.new.respond_to?(:working?)).to eq true
