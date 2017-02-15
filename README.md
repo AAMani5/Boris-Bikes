@@ -1,11 +1,15 @@
-# Boris-Bikes Maker's Challenge Week 1
+### Boris-Bikes Maker's Challenge Week 1
 
 Learning to use test-driven approach to create object-oriented code.
 
-# Technologies Used
+### Technologies Used
 - Rspec
 - Ruby
 
-# Contributors
-- Clem CB
-- Ashwini M
+### Behaviors Learnt
+- [BDD](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md)
+- [Pair-Programing](https://github.com/makersacademy/course/blob/master/pills/pairing.md)
+
+### Contributors
+- Clem Capel-Bird
+- Ashwini Mani
